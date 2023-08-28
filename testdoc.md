@@ -8,7 +8,7 @@ A markdown template for storytelling.
 Stories are great teaching aids. They provide a safe setting where people can share an experience that teaches a particular lesson (or group of lessons). People learn best when they're experiencing things. People remember best when feelings get associated with the lessons they're learning. A story can provide a visceral example that gets remembered.
 
 
-## Start with Why
+## Start with Why ?
 
 Why are you telling the story? What's the point you're trying to communicate? Keep the end game in sight throughout the storytelling process.
 
